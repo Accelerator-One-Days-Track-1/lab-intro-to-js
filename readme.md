@@ -2,9 +2,16 @@
 
 In this lesson, you will write about the code that you see in the `exercise.md` file.
 
+
+## Getting Started
+
+1. Fork and clone this repository
+1. Open up the repository in your code editor.
+1. Open up the [`exercise.md`](exercise.md) file.
+
 ## Exercise
 
-In the `exercise.md` file, you will see a series of code snippets. For each code snippet, write a short description of what the code does.
+In the [`exercise.md`](exercise.md) file, you will see a series of code snippets. For each code snippet, write a short description of what the code does.
 
 ## Submission
 
